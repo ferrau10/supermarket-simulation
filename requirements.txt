@@ -1,0 +1,8 @@
+matplotlib==3.3.3
+numpy==1.19.4
+opencv-python==4.4.0.46
+pandas==1.1.4
+plotly==4.12.0
+pyparsing==2.4.7
+scipy==1.5.4
+seaborn==0.11.0
