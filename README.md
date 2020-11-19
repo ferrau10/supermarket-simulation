@@ -1,4 +1,4 @@
-### Supermarket Simulation 
+## Supermarket Simulation 
 This program simulates the path a customer takes when entering a supermarket, based on a Monte Carlo Markov Chain simulation and A* path finding algorithm. 
 
 ![visualization](./supermarket.gif)
@@ -25,7 +25,7 @@ This program simulates the path a customer takes when entering a supermarket, ba
 ### Keywords:
 OpenCV, Numpy, Monte-Carlo, Markov Chain, pandas
 
-# Next steps: 
+### Next steps: 
 - Implement the visualisation for all the paths calculated (see paths.txt)
 - Testing
 - Incorporate all the days of the week, not just Monday in the simulation
