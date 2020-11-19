@@ -11,7 +11,7 @@ This program simulates the path a customer takes when entering a supermarket, ba
 
 ### Scripts:
 - EDA.ipynb: Analysis of the Data, answering business related questions with visualisations
-![visualization](./Pictures/data_vis)
+![visualization](./Pictures/data_vis.png)
 - MCMC_Apath.ipynb: Calculations to get the final coordinate path
 - simulation_pop_one.py: Visualisation using OpenCV for one customer in the Supermarket
 
