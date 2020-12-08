@@ -30,5 +30,5 @@ OpenCV, Numpy, Monte-Carlo, Markov Chain, pandas
 - Testing
 - Incorporate all the days of the week, not just Monday in the simulation
 
-This is a cooperation between [Marina Meiners](https://github.com/MarinaMeiners), [Nevena](https://github.com/nevezi), [Ben](https://github.com/NOTpilatus), and [Aurelie Ferron](https://github.com/ferrau10) during our Spiced Academy Data Science Bootcamp.
+This is a cooperation between [Marina Meiners](https://github.com/MarinaMeiners), [Nevena Milenkovic Zujko](https://github.com/nevezi), [Ben Pontius](https://github.com/NOTpilatus), and [Aurelie Ferron](https://github.com/ferrau10) during our Spiced Academy Data Science Bootcamp.
 
