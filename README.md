@@ -16,11 +16,11 @@ This program simulates the path a customer takes when entering a supermarket, ba
 - simulation_pop_one.py: Visualisation using OpenCV for one customer in the Supermarket
 
 ### Usage: 
-- Create a virtual environement with python 3.8 (optional): conda create -n py38 python=3.8 
-- Activat the virtual environment (optional): conda activate py38
+- Create a virtual environement with python 3.8 (optional): `conda create -n py38 python=3.8`
+- Activat the virtual environment (optional): `conda activate py38`
 - Clone the repository
-- Install requirements: pip install -r requirements.txt
-- to run: python simulation_pop_one.py
+- Install requirements: `pip install -r requirements.txt`
+- to run: `python simulation_pop_one.py`
 
 ### Keywords:
 OpenCV, Numpy, Monte-Carlo, Markov Chain, pandas
